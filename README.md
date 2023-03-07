@@ -13,4 +13,4 @@ Used scripts are in folder "train_models". The model with the highest performanc
 ![Results](results.png)
 
 # Reference
-- Morais et al. (2023). **Development of an algorithm for identification of sown biodiverse pastures in Portugal.** *XX X(XX)*, XXX-XXX; (https://doi.org/10.1007/XX)
+- Morais et al. (2023). **Semantic segmentation of high-resolution orthophotos in Portugal through convolutional neural networks.** *XX X(XX)*, XXX-XXX; (https://doi.org/10.1007/XX)
