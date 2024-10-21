@@ -13,4 +13,4 @@ Used scripts are in folder "train_models". The model with the highest performanc
 ![Results](results.png)
 
 # Reference
-- Morais et al. (2023). **Semantic segmentation of high-resolution orthophotos in Portugal through convolutional neural networks.** *XX X(XX)*, XXX-XXX; (https://doi.org/10.1007/XX)
+- orais, T.G.; Domingos, T.; Teixeira, R.F.M. Semantic Segmentation of Portuguese Agri-Forestry Using High-Resolution Orthophotos. Agronomy 2023, 13, 2741. https://doi.org/10.3390/agronomy13112741
